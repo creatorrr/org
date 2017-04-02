@@ -2,7 +2,7 @@
 ** Introduction
    List of Loved Ones in no particular order (this may change over time though it is an append-only list)
 
-** :crypt: The list
+** The list :crypt:
 -----BEGIN PGP MESSAGE-----
 
 jA0EBwMC40r9XHlxP5Du0sACAf1Ama7PmZ7YZiekS71qz15bNrcZ/rokrZZDJ1FO

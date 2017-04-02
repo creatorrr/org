@@ -277,16 +277,6 @@
   :config
   (progn
     (setq org-log-done t)
-    (require 'org-crypt)
-    (org-crypt-use-before-save-magic)
-    (setq org-tags-exclude-from-inheritance (quote ("crypt")))
-
-    ;; GPG key to use for encryption
-    ;; Either the Key ID or set to nil to use symmetric encryption.
-    (setq org-crypt-key nil)
-
-    ;; Auto-saving does not cooperate with org-crypt.el
-    (setq auto-save-default nil)
     ))
 
 (use-package evil-org
@@ -299,6 +289,17 @@
 (use-package org-bullets
   :ensure t
   :init (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1))))
+
+(require 'org-crypt)
+(org-crypt-use-before-save-magic)
+(setq org-tags-exclude-from-inheritance (quote ("crypt")))
+
+;; GPG key to use for encryption
+;; Either the Key ID or set to nil to use symmetric encryption.
+(setq org-crypt-key nil)
+
+;; Auto-saving does not cooperate with org-crypt.el
+(setq auto-save-default nil)
 
 ;; Evil mode
 ;; ----------

@@ -1,0 +1,30 @@
+* Priorities
+** Introduction
+   List of priorities in decending order (importance = 1/n)
+
+** [0] Base
+*** [0.1] Knowledge creation and assimilation
+*** [0.2] Ensuring happiness of Loved Ones
+*** [0.3] Ensuring happiness of Self
+
+** [1] Values
+*** [1.1] Maintain integrity at all cost
+*** [1.2] Try your utmost not to hurt any living being without cause
+*** [1.3] Hardwork and embracing schlep
+
+** [2] Health
+*** [2.1] Ensuring good health comes first
+*** [2.2] Maintain excellent cognitive, emotional and physical health
+*** [2.3] Challenge and pushing own boundaries leads to strength
+*** [2.4] Avoid new potential addictants and slowly wean off existing ones
+
+** [3] Games
+*** [3.1] Always play fair
+*** [3.2] Always play to win
+*** [3.3] Avoid 0-sum games if you can
+
+** [4] Experiences
+*** [4.1] Let nature be thy teacher
+*** [4.2] Carpe diem. The World is large, keep your appetite larger
+*** [4.3] Distrust all humans esp the ones with an agenda
+*** [4.4] Keep experiences rich and diverse. Taboo is null

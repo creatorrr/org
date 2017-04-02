@@ -1,0 +1,48 @@
+* Concentrations
+** Introduction
+   List of academic concentrations to master. (Things already known are obviously not included that'd just make this a contrived example of Russell's Paradox)
+
+*** Reasons for inclusion:
+**** Sound fun and interesting
+**** A wild gut feeling that the field will prove important in future work
+**** Some of them are included just for having a cool name
+
+*** Relevant tags (level aspired):
+**** Basic high-level understanding :beginner:
+**** Undergrad-level understanding :moderate:
+**** Everything there is to know :advanced:
+
+** Math
+*** TODO Chaos Theory :moderate:
+*** TODO Calculus (sp Higher order differential equations) :moderate:
+*** TODO Linear Algebra :moderate:
+*** TODO Category Theory :beginner:
+*** TODO Complexity Theory :beginner:
+*** TODO Combinatorics :beginner:
+
+** Physics
+*** TODO Information Theory :advanced:
+*** TODO Thermodynamics :moderate:
+*** TODO Theory of dynamical systems :beginner:
+*** TODO Constructor Theory :advanced:
+*** TODO Quantum Mechanics :moderate:
+*** TODO Theory of Relativity :moderate:
+
+** Philosophy
+*** TODO Philosophy of Mind :advanced:
+*** TODO Philosophy of Science :beginner:
+*** TODO Philosophy of Math :beginner:
+*** TODO Epistemology :moderate:
+
+** Computer Science
+*** TODO Theory of Computation :beginner:
+*** TODO Automata theory :moderate:
+*** TODO Lambda Calculus :advanced:
+*** TODO Formal Systems :beginner:
+*** TODO Quantum Computing :beginner:
+*** TODO Data Structures and Algorithms :moderate:
+
+** Biology
+*** TODO Theory of Evolution :moderate:
+*** TODO Virology :beginner:
+*** TODO Neuroscience :moderate:

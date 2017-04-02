@@ -276,10 +276,25 @@
          ("C-l" . org-agenda))
   :config
   (progn
-    (setq org-log-done t)))
+    (setq org-log-done t)
+    (require 'org-crypt)
+    (org-crypt-use-before-save-magic)
+    (setq org-tags-exclude-from-inheritance (quote ("crypt")))
+
+    ;; GPG key to use for encryption
+    ;; Either the Key ID or set to nil to use symmetric encryption.
+    (setq org-crypt-key nil)
+
+    ;; Auto-saving does not cooperate with org-crypt.el
+    (setq auto-save-default nil)
+    ))
 
 (use-package evil-org
   :ensure t)
+
+(use-package epa-file
+  :config
+  (add-hook 'org-mode-hook (lambda () (epa-file-enable))))
 
 (use-package org-bullets
   :ensure t

@@ -4,8 +4,8 @@
 
 ** [0] Base
 *** [0.1] Knowledge creation and assimilation
-*** [0.2] Ensuring happiness of Loved Ones
-*** [0.3] Ensuring happiness of Self
+*** [0.1999...99] Ensuring happiness of Self
+*** [0.2000...01] Ensuring happiness of Loved Ones
 
 ** [1] Values
 *** [1.1] Maintain integrity at all cost

@@ -1,14 +1,8 @@
 * List of Loved Ones
-** Introduction
-   List of Loved Ones in no particular order (this may change over time though it is an append-only list)
-
 ** The list :crypt:
 -----BEGIN PGP MESSAGE-----
 
-jA0EBwMC40r9XHlxP5Du0sACAf1Ama7PmZ7YZiekS71qz15bNrcZ/rokrZZDJ1FO
-zpBzRvaJxde9sf35SOl1fBlzyW48zsH3matE4iSXTpc0ov/loXVyDaNw2DEGlnOt
-7o937EQUt/rwZBgjZch3DiaehQcQBHhk5xp3TjbL9KYM477SJg5Ukfauf/7ONhjY
-4CUggLg6OWVKU5STnAgA91LzUIXlcYrq7KmLi41cxa+gdnUsBtSwRAaNEE6BVnB0
-aQKCmLEUlAUl4tFws+jBFhwkQNI=
-=UEgh
+jA0EBwMCRtnVnzO2r27u0jwBHCXqbj5rKMB9WSO8R9c2ntdfsIIYohopV3/Hyji5
+AJKQeP1gSyT6Bwau3kgrTYiWhVfw7Bns331yIuc=
+=x6W9
 -----END PGP MESSAGE-----
